@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2626c1cc-87f9-4df3-86ed-a6540c7b7a5f" name="Changes" comment="">
+    <list default="true" id="2626c1cc-87f9-4df3-86ed-a6540c7b7a5f" name="Changes" comment="primer problema-&gt; pedirNum()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tablas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,23 @@
       <option name="presentableId" value="Default" />
       <updated>1704873818912</updated>
     </task>
+    <task id="LOCAL-00001" summary="primer problema-&gt; pedirNum()">
+      <option name="closed" value="true" />
+      <created>1704880427042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880427042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="primer problema-&gt; pedirNum()">
+      <option name="closed" value="true" />
+      <created>1704880463222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880463222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +90,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer problema-&gt; pedirNum()" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer problema-&gt; pedirNum()" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>70</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
