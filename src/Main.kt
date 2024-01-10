@@ -9,12 +9,11 @@
  * @return Int - número entero válido dentro del rango especificado
  */
 fun pedirNum(min:Int, max:Int):Int{
-    //No se porque si quito la variable numero me dice que tengo que iniciarla y si la inicio ponga el numero que ponga siempre dará cero
-    var numero =0
+    var numero = 0
 
     try{
         print("Introduzca un numero entre $min-$max: ")
-        var numero = readln().toInt()
+         numero = readln().toInt()
 
         if (numero< min || numero> max) {//Comprobamos que el numero esté en el rango asignado
             println("Error,Introduzca un numero correcto")
