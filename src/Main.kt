@@ -94,35 +94,5 @@ fun main() {
 
 
 
-    /*do {
-        val min = 1
-        val max = 100
-        val numero = pedirNum(min, max)
-
-        println("La tabla de multiplicar del numero $numero es: " )
-        creacionTabla(numero)
-
-        //Primero va introducir el numero luego la tabla es... y despues pregunta de nuevo
-
-        val text:String = "¿Desea generar otra tabla de multiplicar? (s/n)"
-
-        val respuesta = pregunta(text)
-    }while (respuesta == true){
-        val min = 1
-        val max = 100
-        val numero = pedirNum(min, max)
-
-        println("La tabla de multiplicar del numero $numero es: " )
-        creacionTabla(numero)
-
-        //Primero va introducir el numero luego la tabla es... y despues pregunta de nuevo
-
-        val text:String = "¿Desea generar otra tabla de multiplicar? (s/n)"
-
-        val respuesta = pregunta(text)
-    }*/
-
-
-
 
 
